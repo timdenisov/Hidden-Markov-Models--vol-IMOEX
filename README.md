@@ -35,7 +35,8 @@ HMM позволяет представить рынок как процесс �
 
 ## Главная визуализация
 
-![MOEX Index and Market Regimes](images/moex_index_regimes.png)
+![MOEX Index and Market Regimes]<img width="1243" height="620" alt="image" src="https://github.com/user-attachments/assets/20e04f74-7e1b-41c0-9a08-cebf36928969" />
+
 
 На графике видно, как HMM распределяет разные периоды индекса МосБиржи по режимам волатильности.  
 Спокойные участки чаще относятся к режиму низкой волатильности, а периоды резких движений рынка — к режимам повышенной и высокой волатильности.
