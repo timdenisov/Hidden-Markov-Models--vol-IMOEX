@@ -35,7 +35,6 @@ HMM позволяет представить рынок как процесс �
 
 ## Главная визуализация
 
-![MOEX Index and Market Regimes]
 <img width="1248" height="543" alt="image" src="https://github.com/user-attachments/assets/9f8d81e3-e97b-4fde-867b-539ddca46e21" />
 
 
