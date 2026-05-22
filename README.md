@@ -82,7 +82,6 @@ HMM хорошо подходит для определения текущего
 
 The stock market does not behave the same way all the time. There are calm periods, phases of higher uncertainty, and sometimes the market moves into a stress regime.
 
-<img width="1243" height="620" alt="image" src="https://github.com/user-attachments/assets/20e04f74-7e1b-41c0-9a08-cebf36928969" />
 
 In this project, I used a **Hidden Markov Model (HMM)** to automatically identify hidden volatility regimes in the Russian stock market using the IMOEX index.
 
@@ -111,7 +110,6 @@ This approach helps us look not only at a single daily return, but also at the b
 
 ## Main visualization
 
-<img width="1248" height="543" alt="image" src="https://github.com/user-attachments/assets/9f8d81e3-e97b-4fde-867b-539ddca46e21" />
 
 The chart shows how HMM assigns different periods of the MOEX Index to volatility regimes.  
 Calm periods are more often classified as low-volatility regimes, while periods of sharp market moves are assigned to elevated or high-volatility regimes.
@@ -143,7 +141,9 @@ Main results:
 
 Metric	Value
 One-step-ahead regime accuracy	97.70%
+
 Baseline accuracy	38.35%
+
 ROC-AUC for high-volatility risk	0.686
 
 Economic takeaway:
