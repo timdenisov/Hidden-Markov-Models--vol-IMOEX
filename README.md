@@ -8,8 +8,8 @@ Modeling Volatility Regimes in the Russian Stock Market with Hidden Markov Model
 ## 🇷🇺 Идея проекта
 
 Фондовый рынок не всегда ведет себя одинаково. Бывают спокойные периоды, бывают фазы повышенной неопределенности, а иногда рынок переходит в стрессовый режим.
-
-В этом проекте я использовал **Hidden Markov Model (HMM)**, чтобы автоматически выделить скрытые режимы волатильности российского фондового рынка на примере индекса МосБиржи.
+<img width="1243" height="620" alt="image" src="https://github.com/user-attachments/assets/20e04f74-7e1b-41c0-9a08-cebf36928969" />
+В этом проекте я использовал **Hidden Markov Model (HMM)**, чтобы автоматически выделить скрытые режимы волатильности российского фондового рынка на примере индекса IMOEX.
 
 Главная идея:
 
@@ -35,7 +35,8 @@ HMM позволяет представить рынок как процесс �
 
 ## Главная визуализация
 
-![MOEX Index and Market Regimes]<img width="1243" height="620" alt="image" src="https://github.com/user-attachments/assets/20e04f74-7e1b-41c0-9a08-cebf36928969" />
+![MOEX Index and Market Regimes]
+<img width="1248" height="543" alt="image" src="https://github.com/user-attachments/assets/9f8d81e3-e97b-4fde-867b-539ddca46e21" />
 
 
 На графике видно, как HMM распределяет разные периоды индекса МосБиржи по режимам волатильности.  
